@@ -6,7 +6,7 @@ div {
 }
 
 #main {
-  color: white;
+  background: #55555;
   width: 750px;
 }
 
@@ -29,5 +29,5 @@ div {
 }
 
 body {
- background: #55555;
+ 
 }
