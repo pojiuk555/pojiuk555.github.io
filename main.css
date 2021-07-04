@@ -2,7 +2,7 @@ div {
   width: 500px;
   height: 500px;
 
-  background: #55555;
+  
 }
 
 #main {
@@ -26,4 +26,8 @@ div {
 .alert-warning {
   background: #000000;
   color: yellow;
+}
+
+body {
+ background: #55555;
 }
