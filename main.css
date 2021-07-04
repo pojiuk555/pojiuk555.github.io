@@ -8,26 +8,13 @@ div {
 #main {
   color: #55555;
   width: 750px;
+  text-size: 34px;
 }
 
-.text-white {
-  color: white;
-}
 
-.alert {
-  height: 350px;
-  color: gray;
-}
 
-div {
-  background: blue;
-}
 
-.alert-warning {
-  background: #000000;
-  color: yellow;
-}
 
-body {
- 
-}
+
+
+
